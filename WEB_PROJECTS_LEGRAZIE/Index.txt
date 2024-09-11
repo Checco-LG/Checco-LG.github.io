@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="it">
+	<head>
+	<meta charset="utf-8"/>
+	<title>HTECH6</title>
+	</head>
+		<body>
+		<p> Il mio gatto è <strong> molto </strong> scontroso </p>
+
+
+		<img src ="images/firefox.png" alt="logo firefox"/>
+		</body>
+</html>
